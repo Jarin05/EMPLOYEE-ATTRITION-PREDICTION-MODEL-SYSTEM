@@ -130,7 +130,7 @@ function App() {
       </section>
 
       <footer>
-        Developed by <strong>Sadaf Ahmad | Zarin Khan | Ishika Ishaan</strong> | B.Tech Final Year Project | 2026
+        Developed by <strong>Sadaf Ahmad | Jarin Khan | Ishika Ishan</strong> | B.Tech Final Year Project | 2026
       </footer>
 
     </div>
